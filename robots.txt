@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://morrey08-max.github.io/axiom-legal/sitemap.xml
